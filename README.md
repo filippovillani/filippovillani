@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @filippovillani
-- 👀 I’m interested in Machine Learning and Digital Signal Processing.
+- 👀 I’m interested in Audio, Machine Learning and Digital Signal Processing.
 - 🌱 I’m currently learning Tensorflow and JUCE frameworks.
 - 📫 How to reach me: filippo.villani.1996@gmail.com  
 
